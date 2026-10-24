@@ -1,0 +1,6 @@
+step_no,step,users,step_conversion,overall_conversion
+1,app_open,8000,,1.0
+2,view_product,7124,0.891,0.891
+3,add_to_cart,4706,0.661,0.588
+4,checkout,3321,0.706,0.415
+5,purchase,2026,0.61,0.253

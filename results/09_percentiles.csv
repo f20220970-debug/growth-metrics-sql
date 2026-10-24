@@ -1,0 +1,5 @@
+city,mean_order_value,median_order_value,p90_order_value,median_days_to_first_order
+Bengaluru,602.0,542.0,961.0,4.0
+Delhi,599.0,542.0,981.0,3.0
+Hyderabad,604.0,549.0,979.0,4.0
+Mumbai,601.0,541.0,977.0,4.0
